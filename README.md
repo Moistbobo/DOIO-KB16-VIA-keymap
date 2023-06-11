@@ -12,4 +12,4 @@ Backed up on github because it's stupidly difficult to find.
 
 ### Via 1
 1. Download `kb16-01-via1.json`
-2. In VIA, go to File > Import Keymap,and select the json file
+2. In VIA, go to File > Import Keymap, and select the json keymap file
